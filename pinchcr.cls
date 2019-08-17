@@ -90,10 +90,10 @@
                \partnss\baselineskip=30pt}
 \def\parttitlesans{\font\parttss=cmssbx10 at 24truept
                \parttss\baselineskip=26pt}
-\def\achapsans{\font\chapss=cmssbx10 at 19truept
-               \chapss\baselineskip=24pt}
-\def\achapnum{\font\chapnum=cmb10 at 19truept
-               \chapnum\baselineskip=24pt}
+\def\achapsans{\font\chapss=cmssbx10 at 15truept
+               \chapss\baselineskip=18pt}
+\def\achapnum{\font\chapnum=cmb10 at 15truept
+               \chapnum\baselineskip=18pt}
 
 % *******************************************
 \oddsidemargin 14.1mm   % pinchcr change
